@@ -1,0 +1,33 @@
+weatherAPI.py executed
+Date:2018-11-20 22:52:06.520695/
+STATUS:200
+weatherAPI.py executed
+Date:2018-11-20 22:52:31.912810/
+STATUS:200
+Location to show weather :London
+Returned country code :US
+-------------------------------------------
+weatherAPI.py executed
+Date:2018-11-20 23:04:49.170356/
+STATUS:200
+Location to show weather :London
+Returned country code :US
+-------------------------------------------
+weatherAPI.py executed
+Date:2018-11-20 23:06:30.550369/
+STATUS:200
+Location to show weather :London
+Returned country code :US
+-------------------------------------------
+weatherAPI.py executed
+Date:2018-11-20 23:12:08.470095/
+STATUS:200
+Location to show weather :London
+Returned country code :US
+-------------------------------------------
+weatherAPI.py executed
+Date:2018-11-20 23:18:05.954189/
+STATUS:200
+Location to show weather :London
+Returned country code :US
+-------------------------------------------
